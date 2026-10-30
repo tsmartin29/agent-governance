@@ -107,4 +107,4 @@ Both are single files with no dependencies. Try each in dry-run mode first.
 
 MIT. See [LICENSE](LICENSE).
 
-*Patent pending (U.S. provisionals 64/184,861 and 64/184,896). Shared to start a conversation. Use the ideas; credit appreciated.*
+*Patent pending (U.S. provisionals 64/184,861 and 64/184,896). Shared to start a conversation. The code is MIT-licensed; the patents are not licensed beyond that.*
